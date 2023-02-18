@@ -1,7 +1,5 @@
 # Boot2Root
 
-Resume: Ce projet est une introduction à la pénetration d’un système
-
 Après tout vos efforts vous allez enfin pouvoir vous amuser !
 Ce projet est donc une base pour vous faire comprendre comment vous devez procéder
 pour pénétrer un systéme sur lequel vous avez les droits légalement parlant.
